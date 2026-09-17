@@ -1,6 +1,0 @@
-dist/
-yarn-error.log*
-.pnpm-store/
-node_modules/
-build/
-npm-debug.log*
