@@ -1,0 +1,12 @@
+# Project-specific overrides
+*.woff binary
+*.png binary
+package-lock.json linguist-generated
+node_modules/* linguist-vendored
+public/** linguist-vendored
+
+app/*.tsx linguist-detectable
+
+*.ico binary
+* text=auto
+# eof ed3229b7
